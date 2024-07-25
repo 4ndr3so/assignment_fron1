@@ -1,0 +1,38 @@
+
+ul li {
+    padding-left: 20px;  /* spacing */
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    background-color: beige;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-size: 20px;
+}
+
+table, tr, td, th {
+    background-color: rgb(211, 251, 255);
+    border: 2px solid chocolate;
+    border-collapse: collapse;
+    border-radius: 5px; /* make round corners */
+}
+
+td, tr {
+    text-align: center;
+}
+
+th {
+    height: 50px;
+    width: 150px;
+}
+.img-container{
+    background-color: rgb(10, 6, 1);
+}
+
